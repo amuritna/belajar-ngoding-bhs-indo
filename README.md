@@ -8,6 +8,7 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 2. Panduan interaktif
 3. Repositori GitHub
 4. Pemrograman visual
+5. Belajar bahasa Inggris
 
 ## Blog dan berita
 - [CodePolitan](https://www.codepolitan.com/)
@@ -33,3 +34,5 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 - [Scratch](https://scratch.mit.edu/)
   - tersedia antarmuka yang telah diterjemahkan ke bahasa Indonesia
   - tersedia tutorial dalam bahasa Indonesia
+  
+## Belajar bahasa Inggris
