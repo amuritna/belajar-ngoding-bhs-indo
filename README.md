@@ -23,7 +23,7 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/) (Python, JavaScript, PHP, dan Git)
   
-## Panduan teks
+## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
 - [Dicoding Indonesia](https://www.dicoding.com)
@@ -34,14 +34,17 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
   - glosarium
   
-## Panduan video
+## Panduan berbasis video
 - [CodePolitan](https://www.codepolitan.com/)
   - sebagian besar materi berbayar
+- [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
 - [Malescast](https://malescast.com/)
   - sebagian materi berbayar
   - terakhir kali diperbarui tahun 2015
+- [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
 - [Sekolah Koding](https://sekolahkoding.com/)
   - sebagian materi berbayar
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
 
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
