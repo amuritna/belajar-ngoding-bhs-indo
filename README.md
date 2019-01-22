@@ -1,7 +1,9 @@
 # kode-bhs-indo
-Pemrograman sebagian besar terjadi dalam bahasa Inggris, baik lewat bahasa pengajarannya ataupun bahasa pelaksanaannya. Daftar sumber untuk belajar pemrograman tanpa biaya dalam bahasa Indonesia ini harapannya bakal dapat membantu yang belum lancar berbahasa Inggris.
+Pemrograman sebagian besar terjadi dalam bahasa Inggris, baik lewat bahasa pengajarannya ataupun bahasa pelaksanaannya. Daftar sumber untuk belajar pemrograman dalam bahasa Indonesia ini harapannya bakal dapat membantu yang belum lancar berbahasa Inggris.
 
-Tapi karena secara jangka panjang ilmu bahasa Inggris bakal sangat diperlukan, kami juga menambahkan bahan belajar bahasa Inggris gratis di bagian akhir! :D
+Tapi karena secara jangka panjang ilmu bahasa Inggris bakal sangat diperlukan, kami juga menambahkan bahan belajar bahasa Inggris di bagian akhir! :D
+
+Semua sumber yang ada di sini 100% gratis, ***kecuali*** jika dinyatakan sebaliknya.
 
 Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat dihargai :)
 
@@ -20,12 +22,13 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/) (Python, JavaScript, PHP, dan Git)
-  - semua materi gratis
-  - *tidak* memberikan sertifikat
   
 ## Panduan teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
+- [Dicoding Indonesia](https://www.dicoding.com)
+  - sebagian materi berbayar
+  - memberikan sertifikat
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
@@ -33,12 +36,12 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
   
 ## Panduan video
 - [CodePolitan](https://www.codepolitan.com/)
-  - beberapa kursus gratis
+  - sebagian besar materi berbayar
 - [Malescast](https://malescast.com/)
-  - sebagian besar materi video gratis
+  - sebagian materi berbayar
   - terakhir kali diperbarui tahun 2015
 - [Sekolah Koding](https://sekolahkoding.com/)
-  - sebagian materi gratis
+  - sebagian materi berbayar
 
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
@@ -53,4 +56,3 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
   
 ## Belajar bahasa Inggris
 - [Duolingo](https://id.duolingo.com/course/en/id/Pelajari-Bahasa-Inggris-Online)
-  - semua materi gratis (Duolingo mencari uang lewat *crowd-sourcing* data penerjemahan. [Sumber](https://www.forbes.com/sites/alexkonrad/2014/02/18/language-learning-app-duolingo-raises-20m-in-race-to-teach-english/).)
