@@ -1,5 +1,5 @@
 # kode-bhs-indo
-Pemrograman sebagian besar terjadi dalam bahasa Inggris, baik lewat bahasa pengajarannya ataupun bahasa pelaksanaannya. Daftar sumber untuk belajar pemrograman dalam bahasa Indonesia ini harapannya bakal dapat membantu yang belum lancar berbahasa Inggris.
+Pemrograman dan berkode (*coding*) sebagian besar terjadi dalam bahasa Inggris, baik lewat bahasa pengajarannya ataupun bahasa pelaksanaannya. Daftar sumber untuk belajar pemrograman atau berkode dalam bahasa Indonesia ini harapannya bakal dapat membantu yang belum lancar berbahasa Inggris.
 
 Tapi karena secara jangka panjang ilmu bahasa Inggris bakal sangat diperlukan, kami juga menambahkan bahan belajar bahasa Inggris di bagian akhir! :D
 
