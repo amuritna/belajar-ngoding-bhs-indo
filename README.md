@@ -1,11 +1,13 @@
 # kode-bhs-indo
-Pemrograman dan berkode (*coding*) sebagian besar terjadi dalam bahasa Inggris, baik lewat bahasa pengajarannya ataupun bahasa pelaksanaannya. Daftar sumber untuk belajar pemrograman atau berkode dalam bahasa Indonesia ini harapannya bakal dapat membantu yang belum lancar berbahasa Inggris.
+Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Tetapi karena kemampuan berbahasa Inggris bakal tetap penting, ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
-Tapi karena secara jangka panjang ilmu bahasa Inggris bakal sangat diperlukan, kami juga menambahkan bahan belajar bahasa Inggris di bagian akhir! :D
+Oya, saya juga tidak begitu menyukai nama "kode-bhs-indo", jadi saya sangat terbuka menerima saran nama baru.
 
-Semua sumber yang ada di sini 100% gratis, ***kecuali*** jika dinyatakan sebaliknya.
+-------------
 
-Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat dihargai :)
+Kontribusi lewat *pull request* bakal sangat dihargai.
+
+-------------
 
 ## Daftar isi
 1. Blog dan berita
