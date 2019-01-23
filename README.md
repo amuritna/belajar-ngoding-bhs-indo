@@ -21,30 +21,44 @@ Daftar ini sedang dalam pengerjaan. Kontribusi lewat *pull request* bakal sangat
 - [Petani Kode](https://www.petanikode.com/)
 
 ## Panduan interaktif
-- [CodeSaya](https://codesaya.com/) (Python, JavaScript, PHP, dan Git)
+- [CodeSaya](https://codesaya.com/)
+  - Git, JavaScript, PHP, Python
   
 ## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
+- [Byte of Python](https://github.com/asofyan/byte_of_python)
 - [Dicoding Indonesia](https://www.dicoding.com)
+  - Android Studio, Construct 2, Java, Unity, dll.
   - sebagian materi berbayar
   - memberikan sertifikat
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
+- [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+- [Muhammadiyah Developer Club E-Library](https://github.com/MuhammadiyahDeveloperClub/E-Library)
+  - Bash, C, Java, PHP, Python, dll.
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
+- [Pro Git](https://git-scm.com/book/id/v2)
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
   - glosarium
+- [Workshop Python 101](http://sakti.github.io/python101/)
   
 ## Panduan berbasis video
 - [CodePolitan](https://www.codepolitan.com/)
+  - HTML/CSS, dll.
   - sebagian besar materi berbayar
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
+  - C++, Django, Java, Matlab, dll.
 - [Malescast](https://malescast.com/)
+  - Laravel, PHP, dll.
   - sebagian materi berbayar
   - terakhir kali diperbarui tahun 2015
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
+  - Java
 - [Sekolah Koding](https://sekolahkoding.com/)
+  - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
+  - HTML/CSS, PHP
 
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
