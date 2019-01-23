@@ -5,7 +5,7 @@ Oya, saya juga tidak begitu menyukai nama "kode-bhs-indo", jadi saya sangat terb
 
 -------------
 
-Kontribusi lewat *pull request* bakal sangat dihargai.
+Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai.
 
 -------------
 
