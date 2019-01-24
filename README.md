@@ -36,8 +36,6 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - memberikan sertifikat
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
-- [Muhammadiyah Developer Club E-Library](https://github.com/MuhammadiyahDeveloperClub/E-Library)
-  - Bash, C, Java, PHP, Python, dll.
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [Pro Git](https://git-scm.com/book/id/v2)
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
