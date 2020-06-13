@@ -20,6 +20,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Blog dan berita
 - [Belajar Koding](https://belajarkoding.net/)
 - [CodePolitan](https://www.codepolitan.com/)
+- [Malas Ngoding](https://www.malasngoding.com)
 - [Petani Kode](https://www.petanikode.com/)
 
 ## Panduan interaktif
