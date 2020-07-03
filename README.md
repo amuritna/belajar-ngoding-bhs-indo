@@ -27,6 +27,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
   - Git, JavaScript, PHP, Python
+- [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
   
 ## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
