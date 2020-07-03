@@ -15,7 +15,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 3. Panduan teks
 4. Panduan video
 5. Bahasa pemrograman dalam bahasa Indonesia
-6. Belajar bahasa Inggris
+6. Komunitas pemrogram Indonesia
+7. Bonus: Belajar bahasa Inggris
 
 ## Blog dan berita
 - [Belajar Koding](https://belajarkoding.net/)
@@ -72,7 +73,13 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - bahasa pemrograman visual berbasis balok
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
   
-## Belajar bahasa Inggris
+## Komunitas pemrogram Indonesia
+- [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
+  - Daftar grup Indonesia yang terkait dengan pemrograman di Telegram.
+- [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+  - Daftar repository keren yang dibuat dan dikontribusikan oleh orang Indonesia.
+  
+## Bonus: Belajar bahasa Inggris
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
     - grammar, everyday usages, pronunciation, tips, vocabulary, etc.
 - [British Council LearnEnglish](http://learnenglish.britishcouncil.org/)
