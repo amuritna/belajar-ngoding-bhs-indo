@@ -33,6 +33,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
 - [Byte of Python](https://github.com/asofyan/byte_of_python)
+  - terjemahan
 - [Dicoding Indonesia](https://www.dicoding.com)
   - Android Studio, Construct 2, Java, Unity, dll.
   - sebagian materi berbayar
@@ -41,6 +42,9 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [Pro Git](https://git-scm.com/book/id/v2)
+- [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
+  - dokumentasi terkait Linux
+  - terjemahan
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
   - glosarium
 - [Workshop Python 101](http://sakti.github.io/python101/)
