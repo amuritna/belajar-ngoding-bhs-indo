@@ -1,8 +1,6 @@
 # kode-bhs-indo
 Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Tetapi karena kemampuan berbahasa Inggris bakal tetap penting, ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
-Oya, saya juga tidak begitu menyukai nama "kode-bhs-indo", jadi saya sangat terbuka menerima saran nama baru.
-
 -------------
 
 Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai.
