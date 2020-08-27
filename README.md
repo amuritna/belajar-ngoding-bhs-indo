@@ -8,13 +8,13 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 -------------
 
 ## Daftar isi
-1. Blog dan berita
-2. Panduan interaktif
-3. Panduan teks
-4. Panduan video
-5. Bahasa pemrograman dalam bahasa Indonesia
-6. Komunitas pemrogram Indonesia
-7. Bonus: Belajar bahasa Inggris
+1. [Blog dan berita](https://github.com/amuritna/belajar-ngoding-bhs-indo#blog-dan-berita)
+2. [Panduan interaktif](https://github.com/amuritna/belajar-ngoding-bhs-indo#panduan-interaktif)
+3. [Panduan teks](https://github.com/amuritna/belajar-ngoding-bhs-indo#panduan-berbasis-teks)
+4. [Panduan video](https://github.com/amuritna/belajar-ngoding-bhs-indo#panduan-berbasis-video)
+5. [Bahasa pemrograman dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo#bahasa-pemrograman-dalam-bahasa-indonesia)
+6. [Komunitas pemrogram Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo#komunitas-pemrogram-indonesia)
+7. [Bonus: Belajar bahasa Inggris](https://github.com/amuritna/belajar-ngoding-bhs-indo#bonus-belajar-bahasa-inggris)
 
 ## Blog dan berita
 - [CodePolitan](https://www.codepolitan.com/)
