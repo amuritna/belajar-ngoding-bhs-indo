@@ -40,6 +40,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - Serial artikel singkat membahas Javascript (WIP)
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
+- [Petani Kode](https://www.petanikode.com/tutorial/)
+  - PHP, Java, Python, JavaScript, Git, Node.js, dll.
 - [Pro Git](https://git-scm.com/book/id/v2)
   - terjemahan tidak lengkap
 - [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
