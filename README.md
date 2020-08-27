@@ -34,7 +34,10 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - Android Studio, Construct 2, Java, Unity, dll.
   - sebagian materi berbayar
   - memberikan sertifikat
+- [Git - Panduan ringkas oleh Roger Dudler](https://rogerdudler.github.io/git-guide/index.id.html), diterjemahkan oleh [itangsanjana](https://github.com/itangsanjana)
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
+- [JS 101](https://hendrasadewa.site/js101/)
+  - Serial artikel singkat membahas Javascript (WIP)
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [Pro Git](https://git-scm.com/book/id/v2)
