@@ -17,7 +17,6 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 7. Bonus: Belajar bahasa Inggris
 
 ## Blog dan berita
-- [Belajar Koding](https://belajarkoding.net/)
 - [CodePolitan](https://www.codepolitan.com/)
 - [Malas Ngoding](https://www.malasngoding.com)
 - [Petani Kode](https://www.petanikode.com/)
@@ -25,7 +24,6 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
   - Git, JavaScript, PHP, Python
-- [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
   
 ## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
@@ -52,6 +50,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [CodePolitan](https://www.codepolitan.com/)
   - HTML/CSS, dll.
   - sebagian besar materi berbayar
+- [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
   - C++, Django, Java, Matlab, dll.
 - [Malescast](https://malescast.com/)
@@ -80,6 +79,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
+- [codingfess di Twitter](https://twitter.com/codingfess)
+  - akun menfess seputar coding
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
   - daftar repository keren yang dibuat dan dikontribusikan oleh orang Indonesia
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
