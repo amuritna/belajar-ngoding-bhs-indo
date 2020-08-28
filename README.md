@@ -29,7 +29,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
-- [Belajar golang](https://dasarpemrogramangolang.novalagung.com/)
+- [Belajar Golang](https://dasarpemrogramangolang.novalagung.com/)
 - [Byte of Python](https://github.com/asofyan/byte_of_python)
   - terjemahan
 - [Dicoding Indonesia](https://www.dicoding.com)
@@ -67,10 +67,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (Youtube)
-  - Golang
-  - Kotlin
-  - Docker
-  - Redis
+  - Golang, Kotlin, Docker, Redis
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
