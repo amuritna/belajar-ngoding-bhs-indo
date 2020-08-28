@@ -18,6 +18,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 
 ## Blog dan berita
 - [CodePolitan](https://www.codepolitan.com/)
+- [Evilfactorylabs](https://blog.evilfactory.id/)
 - [Malas Ngoding](https://www.malasngoding.com)
 - [Petani Kode](https://www.petanikode.com/)
 
@@ -28,6 +29,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
+- [Belajar golang](https://dasarpemrogramangolang.novalagung.com/)
 - [Byte of Python](https://github.com/asofyan/byte_of_python)
   - terjemahan
 - [Dicoding Indonesia](https://www.dicoding.com)
@@ -59,6 +61,11 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - terakhir kali diperbarui tahun 2015
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (Youtube)
+  - Golang
+  - Kotlin
+  - Docker
+  - Redis
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
