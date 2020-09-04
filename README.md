@@ -1,4 +1,4 @@
-# Belajar Ngoding dalam bahasa Indonesia
+# Belajar ngoding dalam bahasa Indonesia
 Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Tetapi karena kemampuan berbahasa Inggris bakal tetap penting, ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
 -------------
