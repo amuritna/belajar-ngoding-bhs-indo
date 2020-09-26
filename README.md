@@ -40,6 +40,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
 - [JS 101](https://hendrasadewa.site/js101/)
   - Serial artikel singkat membahas Javascript (WIP)
+- [Kiddy - Medium](https://medium.com/@kiddy.xyz)
+  - Laravel, RESTful APIs (dengan Golang, NodeJS, Ruby, Flask Python, dan lainnya), MongoDB, dan lainnya.
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [Petani Kode](https://www.petanikode.com/tutorial/)
