@@ -63,6 +63,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - HTML/CSS, dll.
   - sebagian besar materi berbayar
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
+- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
+  - HTML/CSS, Laravel
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
   - C++, Django, Java, Matlab, dll.
 - [Malescast](https://malescast.com/)
@@ -71,6 +73,9 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - terakhir kali diperbarui tahun 2015
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
+- [Progate](https://progate.com/)
+  - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
+  - sebagian materi berbayar
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (YouTube)
   - Golang, Kotlin, Docker, Redis
 - [Sekolah Koding](https://sekolahkoding.com/)
@@ -78,11 +83,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
-- [Progate](https://progate.com/)
-  - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
-  - sebagian materi berbayar
-- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
-  - HTML/CSS, Laravel
+  
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
   - bahasa pemrograman visual berbasis balok
