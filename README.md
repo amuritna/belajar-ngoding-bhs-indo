@@ -62,6 +62,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [CodePolitan](https://www.codepolitan.com/)
   - HTML/CSS, dll.
   - sebagian besar materi berbayar
+- [DDP 1 MOOC - Pemrograman Python](https://www.youtube.com/playlist?list=PLvkbIcjwo0qwModeUU2JyUi2RQcI6Nfc-)
+  - dari Fakultas Ilmu Komputer Universitas Indonesia
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
 - [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
   - HTML/CSS, Laravel
