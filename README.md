@@ -71,7 +71,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - terakhir kali diperbarui tahun 2015
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
-- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (Youtube)
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (YouTube)
   - Golang, Kotlin, Docker, Redis
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
