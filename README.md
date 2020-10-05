@@ -3,7 +3,7 @@ Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bah
 
 -------------
 
-Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai.
+Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. **Urutkan secara alfabetis!**
 
 -------------
 
@@ -66,6 +66,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian besar materi berbayar
 - [DDP 1 MOOC - Pemrograman Python](https://www.youtube.com/playlist?list=PLvkbIcjwo0qwModeUU2JyUi2RQcI6Nfc-)
   - dari Fakultas Ilmu Komputer Universitas Indonesia
+- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
+  - Dart, Flutter (Android & IOS).
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
 - [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
   - HTML/CSS, Laravel
@@ -87,8 +89,6 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
-- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
-  - Dart, Flutter (Android & IOS).
   
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
