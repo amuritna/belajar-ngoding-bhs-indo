@@ -54,6 +54,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
   - glosarium
 - [Workshop Python 101](http://sakti.github.io/python101/)
+- [Yudi Setiawan - Medium](https://medium.com/@kolonel.yudisetiawan)
+  - Dart, Flutter (Android & IOS).
   
 ## Panduan berbasis video
 - [BootUP](https://bootup.ai)
@@ -85,6 +87,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
+- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
+  - Dart, Flutter (Android & IOS).
   
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
