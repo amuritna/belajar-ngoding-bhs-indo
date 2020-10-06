@@ -3,7 +3,7 @@ Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bah
 
 -------------
 
-Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai.
+Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. **Urutkan secara alfabetis!**
 
 -------------
 
@@ -54,6 +54,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [wisn/jargon-pemrograman-fungsional](https://github.com/wisn/jargon-pemrograman-fungsional)
   - glosarium
 - [Workshop Python 101](http://sakti.github.io/python101/)
+- [Yudi Setiawan - Medium](https://medium.com/@kolonel.yudisetiawan)
+  - Dart, Flutter (Android & IOS).
   
 ## Panduan berbasis video
 - [BootUP](https://bootup.ai)
@@ -62,7 +64,13 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [CodePolitan](https://www.codepolitan.com/)
   - HTML/CSS, dll.
   - sebagian besar materi berbayar
+- [DDP 1 MOOC - Pemrograman Python](https://www.youtube.com/playlist?list=PLvkbIcjwo0qwModeUU2JyUi2RQcI6Nfc-)
+  - dari Fakultas Ilmu Komputer Universitas Indonesia
+- [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
+  - Dart, Flutter (Android & IOS).
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
+- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
+  - HTML/CSS, Laravel
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
   - C++, Django, Java, Matlab, dll.
 - [Malescast](https://malescast.com/)
@@ -71,7 +79,10 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - terakhir kali diperbarui tahun 2015
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
-- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (Youtube)
+- [Progate](https://progate.com/)
+  - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
+  - sebagian materi berbayar
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (YouTube)
   - Golang, Kotlin, Docker, Redis
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
