@@ -78,10 +78,11 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
-- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
-  - HTML/CSS, Laravel
 - [Progate](https://progate.com/)
   - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
+  - sebagian materi berbayar
+- [Wegodev](https://www.wegodev.com)
+  - HTML/CSS, JavaScript, PHP, Nodejs, React, SQL, dll
   - sebagian materi berbayar
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
