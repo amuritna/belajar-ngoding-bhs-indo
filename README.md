@@ -50,6 +50,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - PHP, Java, Python, JavaScript, Git, Node.js, dll.
 - [Pro Git](https://git-scm.com/book/id/v2)
   - terjemahan tidak lengkap
+- [Ohshitgit](https://ohshitgit.com/id)
+  - Beberapa bantuan penggunaan Git
 - [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
   - dokumentasi terkait Linux
   - terjemahan tidak lengkap
