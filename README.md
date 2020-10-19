@@ -45,6 +45,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Kiddy - Medium](https://medium.com/@kiddy.xyz)
   - Laravel, RESTful APIs (dengan Golang, NodeJS, Ruby, Flask Python, dan lainnya), MongoDB, dan lainnya.
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
+- [Ohshitgit](https://ohshitgit.com/id)
+  - Beberapa bantuan penggunaan Git
 - [Pengenalan Node.js](http://idjs.github.io/belajar-nodejs/) ([repositori](http://idjs.github.io/belajar-nodejs/))
 - [Petani Kode](https://www.petanikode.com/tutorial/)
   - PHP, Java, Python, JavaScript, Git, Node.js, dll.
