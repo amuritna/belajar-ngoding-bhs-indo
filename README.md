@@ -95,6 +95,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - HTML/CSS, PHP
   
 ## Bahasa pemrograman dalam bahasa Indonesia
+- [Baik](http://baik-lang.id/) ([repositori](https://github.com/baik-lang/baik))
+  - Scripting Language with indonesian lexical
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
   - bahasa pemrograman visual berbasis balok
   - akses terjemahan bahasa Indonesia lewat menu > *languages* > Bahasa Indonesia
