@@ -35,7 +35,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Byte of Python](https://github.com/asofyan/byte_of_python)
   - terjemahan
 - [Dicoding Indonesia](https://www.dicoding.com)
-  - Android Studio, Construct 2, Java, Unity, dll.
+  - (yang gratis) Svelte, Kubernetes, Git, JavaScript, MongoDB, Docker, Python, Golang, JQuery, HTML/CSS
   - sebagian materi berbayar
   - memberikan sertifikat
 - [Git - Panduan ringkas oleh Roger Dudler](https://rogerdudler.github.io/git-guide/index.id.html), diterjemahkan oleh [itangsanjana](https://github.com/itangsanjana)
