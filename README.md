@@ -39,6 +39,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
   - memberikan sertifikat
 - [Git - Panduan ringkas oleh Roger Dudler](https://rogerdudler.github.io/git-guide/index.id.html), diterjemahkan oleh [itangsanjana](https://github.com/itangsanjana)
+- [Haskell-ID](https://haskell.web.id/)
+  - Haskell
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
 - [JS 101](https://hendrasadewa.site/js101/)
   - Serial artikel singkat membahas Javascript (WIP)
