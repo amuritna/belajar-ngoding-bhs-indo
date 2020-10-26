@@ -1,5 +1,5 @@
 # Belajar ngoding dalam bahasa Indonesia
-Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Karena kemampuan berbahasa Inggris bakal tetap penting, ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
+Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
 **Tip**: Gunakan Ctrl+F untuk mencari sumber belajar dengan kata kunci tertentu (e.g. JavaScript).
 
@@ -43,7 +43,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - Haskell
 - [JavaScript Sabuk Putih](https://bosnaufal.github.io/javascript-sabuk-putih/) ([repositori](https://github.com/BosNaufal/javascript-sabuk-putih))
 - [JS 101](https://hendrasadewa.site/js101/)
-  - Serial artikel singkat membahas Javascript (WIP)
+  - Serial artikel singkat membahas JavaScript (WIP)
 - [Kiddy - Medium](https://medium.com/@kiddy.xyz)
   - Laravel, RESTful APIs (dengan Golang, NodeJS, Ruby, Flask Python, dan lainnya), MongoDB, dan lainnya.
 - [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
