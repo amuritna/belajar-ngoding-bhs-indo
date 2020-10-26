@@ -83,6 +83,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - Laravel, PHP, dll.
   - sebagian materi berbayar
   - terakhir kali diperbarui tahun 2015
+- [Parsinta](https://www.youtube.com/c/Parsinta) (YouTube)
+  - HTML, PHP, Laravel, CSS, Bootstrap, Tailwind,VueJS, ReactJS, dll.
 - [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
   - Java
 - [Progate](https://progate.com/)
