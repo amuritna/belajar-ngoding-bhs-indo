@@ -53,7 +53,9 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Petani Kode](https://www.petanikode.com/tutorial/)
   - PHP, Java, Python, JavaScript, Git, Node.js, dll.
 - [Pro Git](https://git-scm.com/book/id/v2)
-  - terjemahan tidak lengkap
+  - Git, terjemahan tidak lengkap
+- [Pythonindo](https://www.pythonindo.com/)
+  - Python
 - [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
   - dokumentasi terkait Linux
   - terjemahan tidak lengkap
