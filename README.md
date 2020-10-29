@@ -1,4 +1,3 @@
-# Belajar ngoding dalam bahasa Indonesia
 Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
 **Tip**: Gunakan **Ctrl+F** untuk mencari sumber belajar dengan kata kunci tertentu (e.g. JavaScript).
@@ -16,7 +15,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 4. [Panduan video](#panduan-berbasis-video)
 5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
 6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
-7. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
+7. [Akun media sosial informatif](#akun-media-sosial-informatif)
+8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 
 ## Blog dan berita
 - [CodePolitan](https://www.codepolitan.com/)
@@ -114,7 +114,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - bahasa pemrograman visual berbasis balok
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
   
-## Akun Media Sosial Informatif
+## Akun media sosial informatif
 - Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
   
 ## Komunitas pemrogram Indonesia
