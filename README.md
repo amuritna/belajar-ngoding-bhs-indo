@@ -1,7 +1,7 @@
 # Belajar ngoding dalam bahasa Indonesia
-Daftar sumber materi gratis untuk belajar pemrograman dan/atau berkode dalam bahasa Indonesia, diurutkan secara alfabetis. Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
+Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
-**Tip**: Gunakan Ctrl+F untuk mencari sumber belajar dengan kata kunci tertentu (e.g. JavaScript).
+**Tip**: Gunakan **Ctrl+F** untuk mencari sumber belajar dengan kata kunci tertentu (e.g. JavaScript).
 
 -------------
 
@@ -74,6 +74,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian besar materi berbayar
 - [DDP 1 MOOC - Pemrograman Python](https://www.youtube.com/playlist?list=PLvkbIcjwo0qwModeUU2JyUi2RQcI6Nfc-)
   - dari Fakultas Ilmu Komputer Universitas Indonesia
+- [Deep Tech Foundation](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) (YouTube)
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
   - Dart, Flutter (Android & IOS).
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
@@ -112,6 +113,9 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Snap!](https://snap.berkeley.edu/) ([repositori](https://github.com/jmoenig/Snap))
   - bahasa pemrograman visual berbasis balok
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
+  
+## Akun Media Sosial Informatif
+- Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
   
 ## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
