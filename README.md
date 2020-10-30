@@ -9,20 +9,21 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 -------------
 
 ## Daftar isi
-1. [Blog dan berita](#blog-dan-berita)
+1. [Blog dan berita](#blog-berita-dan-akun-media-sosial-informatif)
 2. [Panduan interaktif](#panduan-interaktif)
 3. [Panduan teks](#panduan-berbasis-teks)
 4. [Panduan video](#panduan-berbasis-video)
 5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
 6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
-7. [Akun media sosial informatif](#akun-media-sosial-informatif)
-8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
+7. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 
-## Blog dan berita
-- [CodePolitan](https://www.codepolitan.com/)
-- [Evilfactorylabs](https://blog.evilfactory.id/)
-- [Malas Ngoding](https://www.malasngoding.com)
-- [Petani Kode](https://www.petanikode.com/)
+## Blog, berita, dan akun media sosial informatif
+[//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
+- [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
+- Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
+- [Evilfactorylabs](https://blog.evilfactory.id/) ([Twitter](https://twitter.com/evilfactorylabs))
+- [Malas Ngoding](https://www.malasngoding.com) ([Instagram](https://www.instagram.com/malasngoding/))
+- [Petani Kode](https://www.petanikode.com/) ([Instagram](https://www.instagram.com/petanikode/))
 
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
@@ -82,6 +83,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - HTML/CSS, Laravel
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
   - C++, Django, Java, Matlab, dll.
+- [Malas Ngoding](https://www.youtube.com/malasngoding)
+  - HTML/CSS
 - [Malescast](https://malescast.com/)
   - Laravel, PHP, dll.
   - sebagian materi berbayar
@@ -113,9 +116,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Snap!](https://snap.berkeley.edu/) ([repositori](https://github.com/jmoenig/Snap))
   - bahasa pemrograman visual berbasis balok
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
-  
-## Akun media sosial informatif
-- Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
+
   
 ## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
