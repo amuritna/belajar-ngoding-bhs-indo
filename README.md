@@ -9,7 +9,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 -------------
 
 ## Daftar isi
-1. [Blog dan berita](#blog-berita-dan-akun-media-sosial-informatif)
+1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
 2. [Panduan interaktif](#panduan-interaktif)
 3. [Panduan teks](#panduan-berbasis-teks)
 4. [Panduan video](#panduan-berbasis-video)
