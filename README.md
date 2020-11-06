@@ -22,6 +22,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
 - Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
 - [Evilfactorylabs](https://blog.evilfactory.id/) ([Twitter](https://twitter.com/evilfactorylabs))
+- [Kupas Kode](http://kupaskode.blogspot.com/)
+  - *competitive programming*
 - [Malas Ngoding](https://www.malasngoding.com) ([Instagram](https://www.instagram.com/malasngoding/))
 - [Petani Kode](https://www.petanikode.com/) ([Instagram](https://www.instagram.com/petanikode/))
 
