@@ -123,7 +123,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
-- [Dumbways.id](dumbways.id)
+- [Dumbways.id](https://dumbways.id)
   - Live bootcamp berseleksi di indonesia
 - [Codingfess di Twitter](https://twitter.com/codingfess)
   - akun menfess seputar coding
