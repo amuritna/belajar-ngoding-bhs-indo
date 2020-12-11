@@ -2,4 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 heading_anchors: true
 search_enabled: true
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
