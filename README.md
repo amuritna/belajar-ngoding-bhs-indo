@@ -1,6 +1,8 @@
+# belajar ngoding dalam bahasa Indonesia
+
 Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
-**Tip**: Gunakan **Ctrl+F** untuk mencari sumber belajar dengan kata kunci tertentu (e.g. JavaScript).
+**Tip**: Gunakan *search bar* di atas untuk mencari kata kunci tertentu, e.g. JavaScript!
 
 -------------
 
