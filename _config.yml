@@ -1,3 +1,2 @@
 remote_theme: pmarsceill/just-the-docs
-
-theme: jekyll-theme-cayman
+heading_anchors: true
