@@ -1,6 +1,14 @@
+# Daftar Isi
+
 Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
-**Tip**: Gunakan *search bar* di atas untuk mencari kata kunci tertentu, e.g. JavaScript!
+1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
+2. [Panduan interaktif](#panduan-interaktif)
+3. [Panduan teks](#panduan-berbasis-teks)
+4. [Panduan video](#panduan-berbasis-video)
+5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
+6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
+7. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 
 -------------
 
