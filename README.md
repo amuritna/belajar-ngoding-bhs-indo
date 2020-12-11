@@ -10,16 +10,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 
 -------------
 
-## Daftar isi
-1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
-2. [Panduan interaktif](#panduan-interaktif)
-3. [Panduan teks](#panduan-berbasis-teks)
-4. [Panduan video](#panduan-berbasis-video)
-5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
-6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
-7. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
-
-## Blog, berita, dan akun media sosial informatif
+# Blog, berita, dan akun media sosial informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
 - [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
 - Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
@@ -29,11 +20,11 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Malas Ngoding](https://www.malasngoding.com) ([Instagram](https://www.instagram.com/malasngoding/))
 - [Petani Kode](https://www.petanikode.com/) ([Instagram](https://www.instagram.com/petanikode/))
 
-## Panduan interaktif
+# Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
   - Git, JavaScript, PHP, Python
   
-## Panduan berbasis teks
+# Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
 - [Belajar Golang](https://dasarpemrogramangolang.novalagung.com/)
@@ -70,7 +61,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Yudi Setiawan - Medium](https://medium.com/@kolonel.yudisetiawan)
   - Dart, Flutter (Android & IOS).
   
-## Panduan berbasis video
+# Panduan berbasis video
 - [BootUP](https://bootup.ai)
   - Sekolah Koding, Bootcamp, dll.
   - sebagian materi berbayar
@@ -108,7 +99,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
   
-## Bahasa pemrograman dalam bahasa Indonesia
+# Bahasa pemrograman dalam bahasa Indonesia
 - [Baik](http://baik-lang.id/) ([repositori](https://github.com/baik-lang/baik))
   - bahasa *scripting* dengan leksikon bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
@@ -122,7 +113,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
 
   
-## Komunitas pemrogram Indonesia
+# Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
 - [Dumbways.id](https://dumbways.id)
@@ -134,7 +125,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
   - berbagi cerita tentang menjalani karier di bidang teknologi
   
-## Bonus: Belajar bahasa Inggris
+# Bonus: Belajar bahasa Inggris
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
     - grammar, everyday usages, pronunciation, tips, vocabulary, etc.
 - [British Council LearnEnglish](http://learnenglish.britishcouncil.org/)
