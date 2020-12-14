@@ -1,4 +1,4 @@
-# Daftar Isi
+## Daftar Isi
 
 Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
 
@@ -16,7 +16,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 
 -------------
 
-# Blog, berita, dan akun media sosial informatif
+## Blog, berita, dan akun media sosial informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
 - [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
 - Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
@@ -26,11 +26,11 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Malas Ngoding](https://www.malasngoding.com) ([Instagram](https://www.instagram.com/malasngoding/))
 - [Petani Kode](https://www.petanikode.com/) ([Instagram](https://www.instagram.com/petanikode/))
 
-# Panduan interaktif
+## Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
   - Git, JavaScript, PHP, Python
   
-# Panduan berbasis teks
+## Panduan berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
 - [Belajar Golang](https://dasarpemrogramangolang.novalagung.com/)
@@ -67,7 +67,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Yudi Setiawan - Medium](https://medium.com/@kolonel.yudisetiawan)
   - Dart, Flutter (Android & IOS).
   
-# Panduan berbasis video
+## Panduan berbasis video
 - [BootUP](https://bootup.ai)
   - Sekolah Koding, Bootcamp, dll.
   - sebagian materi berbayar
@@ -105,7 +105,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
   
-# Bahasa pemrograman dalam bahasa Indonesia
+## Bahasa pemrograman dalam bahasa Indonesia
 - [Baik](http://baik-lang.id/) ([repositori](https://github.com/baik-lang/baik))
   - bahasa *scripting* dengan leksikon bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
@@ -119,7 +119,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
 
   
-# Komunitas pemrogram Indonesia
+## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
 - [Dumbways.id](https://dumbways.id)
