@@ -131,7 +131,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
   - berbagi cerita tentang menjalani karier di bidang teknologi
   
-# Bonus: Belajar bahasa Inggris
+## Bonus: Belajar bahasa Inggris
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
     - grammar, everyday usages, pronunciation, tips, vocabulary, etc.
 - [British Council LearnEnglish](http://learnenglish.britishcouncil.org/)
