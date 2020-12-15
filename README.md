@@ -25,6 +25,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - *competitive programming*
 - [Malas Ngoding](https://www.malasngoding.com) ([Instagram](https://www.instagram.com/malasngoding/))
 - [Petani Kode](https://www.petanikode.com/) ([Instagram](https://www.instagram.com/petanikode/))
+- [Teknologia](https://app.mailbrew.com/firewalker06/teknologia-5RMOeIeWJQ0U) (newsletter)
+  - Kumpulan blog dan podcast teknologi berbahasa Indonesia.
 
 ## Panduan interaktif
 - [CodeSaya](https://codesaya.com/)
