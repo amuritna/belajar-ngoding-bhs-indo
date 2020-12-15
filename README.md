@@ -101,6 +101,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (YouTube)
   - Golang, Kotlin, Docker, Redis
+- [Riza Fahmi](https://www.youtube.com/c/RizaFahmi)
+  - GraphQL, PWA, Elixir, Svelte, open source, dll.
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
