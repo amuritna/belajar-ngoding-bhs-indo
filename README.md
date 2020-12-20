@@ -81,6 +81,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Deep Tech Foundation](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) (YouTube)
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
   - Dart, Flutter (Android & IOS).
+- [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
+  - Python, statistika, *data science*, *cloud computing*, FOSS, bincang-bincang dengan ahli, dan lainnya
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
 - [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
   - HTML/CSS, Laravel
