@@ -102,7 +102,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
   - sebagian materi berbayar
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (YouTube)
-  - Golang, Kotlin, Docker, Redis
+  - Golang, Kotlin, Docker, Redis, Java, Kubernetes, Microservices, RESTful API
 - [Riza Fahmi](https://www.youtube.com/c/RizaFahmi)
   - GraphQL, PWA, Elixir, Svelte, open source, dll.
 - [Roemah Rotan](https://www.youtube.com/channel/UCSAEGNs2wEcVI2s2XiPBKHg/featured)
