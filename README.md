@@ -110,6 +110,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
+- [UI Open Courseware - Kategori Fakultas Ilmu Komputer](https://ocw.ui.ac.id/course/index.php?categoryid=12)
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
   
