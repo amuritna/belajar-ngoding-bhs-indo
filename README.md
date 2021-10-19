@@ -137,6 +137,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - akun menfess seputar coding
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
   - daftar repository keren yang dibuat dan dikontribusikan oleh orang Indonesia
+- [Kotakode](https://www.kotakode.com/)
+  - forum tanya jawab untuk programmer
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
   - berbagi cerita tentang menjalani karier di bidang teknologi
   
