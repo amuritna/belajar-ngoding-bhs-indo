@@ -62,6 +62,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - Python
 - [Santri Koding](https://santrikoding.com/)
   - Adonis JS, Codeigniter, Devops, Django, Express JS, Golang, Laravel, Nuxt JS, Rails, React Js, Vue JS, dll.
+  - sebagian materi berbayar
 - [The Linux Documentation Project](http://tldp.org/pub/Linux/docs/HOWTO/translations/indonesian/)
   - dokumentasi terkait Linux
   - terjemahan tidak lengkap
