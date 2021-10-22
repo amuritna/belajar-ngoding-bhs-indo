@@ -134,12 +134,13 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Komunitas pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
+- [Daftar komunitas di awesome-indonesia](https://github.com/GitIndonesia/awesome-indonesia-repo#community)
 - [Dumbways.id](https://dumbways.id)
   - Live bootcamp berseleksi di indonesia
 - [Codingfess di Twitter](https://twitter.com/codingfess)
   - akun menfess seputar coding
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-  - daftar repository keren yang dibuat dan dikontribusikan oleh orang Indonesia
+  - daftar project keren yang dibuat dan dikontribusikan oleh orang Indonesia
 - [Kotakode](https://www.kotakode.com/)
   - forum tanya jawab untuk programmer
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
