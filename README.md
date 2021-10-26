@@ -83,7 +83,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - dari Fakultas Ilmu Komputer Universitas Indonesia
 - [Deep Tech Foundation](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) (YouTube)
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
-  - Dart, Flutter (Android & IOS).
+  - Dart, Flutter, pengenalan Python.
 - [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
   - Python, statistika, *data science*, *cloud computing*, FOSS, bincang-bincang dengan ahli, dan lainnya
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
@@ -113,6 +113,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Sekolah Koding](https://sekolahkoding.com/)
   - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
   - sebagian materi berbayar
+- [Sulaeman Santoso](https://www.youtube.com/c/SulaemanSantoso)
+  - A-Frame, Three.js
 - [UI Open Courseware - Kategori Fakultas Ilmu Komputer](https://ocw.ui.ac.id/course/index.php?categoryid=12)
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
