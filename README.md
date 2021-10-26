@@ -8,7 +8,8 @@ Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman ser
 4. [Panduan video](#panduan-berbasis-video)
 5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
 6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
-7. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
+7. [Podcast](#podcast)
+8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 
 -------------
 
@@ -150,6 +151,14 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - forum tanya jawab untuk programmer
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
   - berbagi cerita tentang menjalani karier di bidang teknologi
+
+## Podcast
+- [Ceritanya Developer Podcast](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs)
+- [Developer Log](https://open.spotify.com/show/0R3d8NC2V1LeKiFWKxcaUs)
+- [Kode Nol](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
+- [Milenial Digital](https://open.spotify.com/show/4UdGiWzTR88Ps2zNC1Pohg)
+- [Ngobrolin Startup & Teknologi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
+- [OKR (Obrolan Kala Rehat)](https://open.spotify.com/show/2hZ9LIbOghzG7XqVetYCGh)
   
 ## Bonus: Belajar bahasa Inggris
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
