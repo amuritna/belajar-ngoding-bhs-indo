@@ -87,6 +87,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
   - Python, statistika, *data science*, *cloud computing*, FOSS, bincang-bincang dengan ahli, dan lainnya
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
+- [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
+  - Ruby, DevOps, Algoritma dan Struktur Data
 - [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
   - HTML/CSS, Laravel
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
