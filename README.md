@@ -30,11 +30,11 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Teknologia](https://app.mailbrew.com/firewalker06/teknologia-5RMOeIeWJQ0U) (newsletter)
   - Kumpulan blog dan podcast teknologi berbahasa Indonesia.
 
-## Panduan interaktif
+## Pembelajaran interaktif
 - [CodeSaya](https://codesaya.com/)
   - Git, JavaScript, PHP, Python
   
-## Panduan berbasis teks
+## Pembelajaran berbasis teks
 - [arisetyo/belajar-react](https://github.com/arisetyo/belajar-react)
 - [Belajarpython](https://belajarpython.com/) ([repositori](https://github.com/belajarpythoncom/belajarpython.com))
 - [Belajar Golang](https://dasarpemrogramangolang.novalagung.com/)
@@ -74,7 +74,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Yudi Setiawan - Medium](https://medium.com/@kolonel.yudisetiawan)
   - Dart, Flutter (Android & IOS).
   
-## Panduan berbasis video
+## Pembelajaran berbasis video
 - [BootUP](https://bootup.ai)
   - Sekolah Koding, Bootcamp, dll.
   - sebagian materi berbayar
@@ -86,6 +86,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Deep Tech Foundation](https://www.youtube.com/channel/UCXHYMtd03eaP0Fb1zVY7HOw) (YouTube)
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) (YouTube)
   - Dart, Flutter, pengenalan Python.
+- [i Did IT - Koding Aja Dulu](https://www.youtube.com/c/KodingAjaDulu)
+  - Go, Microservices, Assembly
 - [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw)
   - Python, statistika, *data science*, *cloud computing*, FOSS, bincang-bincang dengan ahli, dan lainnya
 - [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
@@ -119,6 +121,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
   - sebagian materi berbayar
 - [Sulaeman Santoso](https://www.youtube.com/c/SulaemanSantoso)
   - A-Frame, Three.js
+- [Tekno Bareng Peter](https://www.youtube.com/c/TeknoBarengPeter)
 - [UI Open Courseware - Kategori Fakultas Ilmu Komputer](https://ocw.ui.ac.id/course/index.php?categoryid=12)
 - [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
   - HTML/CSS, PHP
