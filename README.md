@@ -155,6 +155,7 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 ## Podcast
 - [Ceritanya Developer Podcast](https://open.spotify.com/show/6grT1c7jDkhK4skm1YIsTs)
 - [Developer Log](https://open.spotify.com/show/0R3d8NC2V1LeKiFWKxcaUs)
+- [Kartini Teknologi](https://kartiniteknologi.id/)
 - [Kode Nol](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
 - [Milenial Digital](https://open.spotify.com/show/4UdGiWzTR88Ps2zNC1Pohg)
 - [Ngobrolin Startup & Teknologi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
