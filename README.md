@@ -1,6 +1,6 @@
 ## Daftar Isi
 
-Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap penting (supaya bisa memanfaatkan misalnya [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga di paling bawah sumber materi gratis untuk belajar dan berlatih bahasa Inggris.
+Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga sumber materi gratis untuk belajar dan berlatih bahasa Inggris di bagian paling bawah README ini.
 
 1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
 2. [Panduan interaktif](#panduan-interaktif)
