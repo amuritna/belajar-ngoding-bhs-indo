@@ -42,6 +42,8 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
 - [Belajar Golang](https://dasarpemrogramangolang.novalagung.com/)
 - [Byte of Python](https://github.com/asofyan/byte_of_python)
   - terjemahan
+- [Data Sekitar](https://medium.com/datasekitar)
+  - data analysis
 - [Dicoding Indonesia](https://www.dicoding.com)
   - (yang gratis) Svelte, Kubernetes, Git, JavaScript, MongoDB, Docker, Python, Golang, JQuery, HTML/CSS
   - sebagian materi berbayar
@@ -77,13 +79,14 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
   - Dart, Flutter (Android & IOS).
   
 ## Pembelajaran berbasis video
-- [Agung Setiawan](https://www.youtube.com/c/AgungSetiawanCoding)
+- [Agung Setiawan](https://www.youtube.com/c/AgungSetiawanCoding) (YouTube)
   - Python, Golang, Ruby, PHP, dll.
 - [Asdita Prasetya](https://www.youtube.com/c/AsditaPrasetya) (YouTube)
   - backend engineering, Laravel, Golang, microservices
 - [BootUP](https://bootup.ai)
   - Sekolah Koding, Bootcamp, dll.
   - sebagian materi berbayar
+- [Cloud Engineering with Imre](https://www.youtube.com/c/ImreNagi) (YouTube)
 - [CodePolitan](https://www.codepolitan.com/)
   - HTML/CSS, dll.
   - sebagian besar materi berbayar
