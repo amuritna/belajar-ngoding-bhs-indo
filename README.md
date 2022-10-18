@@ -1,21 +1,23 @@
+## Tentang Repository Ini
+
+*Repository* ini berisi daftar sumber materi *gratis* dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Untuk mencari materi dengan kata kunci tertentu (contoh: "JavaScript") bisa digunakan Ctrl+F.
+
+Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), oleh sebab itu ditambahkan sumber materi gratis belajar bahasa Inggris di bagian paling bawah README ini.
+
+**Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
+
+-------------
+
 ## Daftar Isi
 
-Daftar sumber materi gratis dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Karena kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), ditambahkan juga sumber materi gratis untuk belajar dan berlatih bahasa Inggris di bagian paling bawah README ini.
-
 1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
-2. [Panduan interaktif](#panduan-interaktif)
-3. [Panduan teks](#panduan-berbasis-teks)
-4. [Panduan video](#panduan-berbasis-video)
+2. [Panduan interaktif](#pembelajaran-interaktif)
+3. [Panduan teks](#pembelajaran-berbasis-teks)
+4. [Panduan video](#pembelajaran-berbasis-video)
 5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
 6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
 7. [Podcast](#podcast)
 8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
-
--------------
-
-Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. **Urutkan secara alfabetis!**
-
--------------
 
 ## Blog, berita, dan akun media sosial informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
