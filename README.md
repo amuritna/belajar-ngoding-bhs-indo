@@ -15,7 +15,7 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
 3. [Panduan teks](#pembelajaran-berbasis-teks)
 4. [Panduan video](#pembelajaran-berbasis-video)
 5. [Bahasa pemrograman dalam bahasa Indonesia](#bahasa-pemrograman-dalam-bahasa-indonesia)
-6. [Komunitas pemrogram Indonesia](#komunitas-pemrogram-indonesia)
+6. [Komunitas pemrogram Indonesia](#komunitas-konferensi-dan-meetup-pemrogram-indonesia)
 7. [Podcast](#podcast)
 8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 
@@ -77,6 +77,8 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
   - Dart, Flutter (Android & IOS).
   
 ## Pembelajaran berbasis video
+- [Asdita Prasetya](https://www.youtube.com/c/AsditaPrasetya) (YouTube)
+  - backend engineering, Laravel, Golang, microservices
 - [BootUP](https://bootup.ai)
   - Sekolah Koding, Bootcamp, dll.
   - sebagian materi berbayar
@@ -99,6 +101,8 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
   - HTML/CSS, Laravel
 - [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
   - C++, Django, Java, Matlab, dll.
+- [Koding Bareng Petra](https://www.youtube.com/c/KodingBarengPetra) (YouTube)
+  - AWS
 - [Malas Ngoding](https://www.youtube.com/malasngoding)
   - HTML/CSS
 - [Malescast](https://malescast.com/)
@@ -142,18 +146,23 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
   - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
 
   
-## Komunitas pemrogram Indonesia
+## Komunitas, konferensi, dan meetup pemrogram Indonesia
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
   - daftar grup Indonesia yang terkait dengan pemrograman di Telegram
+- [Bandung Python](https://www.youtube.com/channel/UCGgdEWx4DHpIIW4JHx_XhaQ)
+  - rekaman PyCon ID 2021, 2020
 - [Daftar komunitas di awesome-indonesia](https://github.com/GitIndonesia/awesome-indonesia-repo#community)
-- [Dumbways.id](https://dumbways.id)
-  - Live bootcamp berseleksi di indonesia
 - [Codingfess di Twitter](https://twitter.com/codingfess)
   - akun menfess seputar coding
+- [Dumbways.id](https://dumbways.id)
+  - Live bootcamp berseleksi di indonesia
 - [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
   - daftar project keren yang dibuat dan dikontribusikan oleh orang Indonesia
 - [Kotakode](https://www.kotakode.com/)
   - forum tanya jawab untuk programmer
+- [Python Surabaya](https://www.youtube.com/channel/UCULBt99QiI7QgYhhfVO86EA)
+  - rekaman PyCon 2019
+- [ReactJS Indonesia](https://www.youtube.com/channel/UCXGS8iBvYxknvpvDhZheOdA/featured) 
 - [Ruang Serikat Pekerja Teknologi di Quora](https://id.quora.com/q/serikatpekerjateknologi)
   - berbagi cerita tentang menjalani karier di bidang teknologi
 
