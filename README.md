@@ -77,6 +77,8 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
   - Dart, Flutter (Android & IOS).
   
 ## Pembelajaran berbasis video
+- [Agung Setiawan](https://www.youtube.com/c/AgungSetiawanCoding)
+  - Python, Golang, Ruby, PHP, dll.
 - [Asdita Prasetya](https://www.youtube.com/c/AsditaPrasetya) (YouTube)
   - backend engineering, Laravel, Golang, microservices
 - [BootUP](https://bootup.ai)
@@ -174,6 +176,8 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
 - [Milenial Digital](https://open.spotify.com/show/4UdGiWzTR88Ps2zNC1Pohg)
 - [Ngobrolin Startup & Teknologi](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X)
 - [OKR (Obrolan Kala Rehat)](https://open.spotify.com/show/2hZ9LIbOghzG7XqVetYCGh)
+- [Tentang Data](https://anchor.fm/aliakbars)
+  - data science
   
 ## Bonus: Belajar bahasa Inggris
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
