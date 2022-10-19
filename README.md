@@ -1,10 +1,11 @@
+# Belajar Ngoding, Bahasa Indonesia
 ## Tentang Repository Ini
 
 *Repository* ini berisi daftar sumber materi *gratis* dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Untuk mencari materi dengan kata kunci tertentu (contoh: "JavaScript") bisa digunakan Ctrl+F.
 
 Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), oleh sebab itu ditambahkan sumber materi gratis belajar bahasa Inggris di bagian paling bawah README ini.
 
-**Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
+Link website: https://amuritna.github.io/belajar-ngoding-bhs-indo/
 
 -------------
 
@@ -18,6 +19,7 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
 6. [Komunitas pemrogram Indonesia](#komunitas-konferensi-dan-meetup-pemrogram-indonesia)
 7. [Podcast](#podcast)
 8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
+9. [BERKONTRIBUSI](#berkontribusi)
 
 ## Blog, berita, dan akun media sosial informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
@@ -194,3 +196,6 @@ Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat mem
     - everyday usages
 - [Oxford University Press Learning Resources Bank](https://elt.oup.com/learning_resources/)
   - IELTs practice materials, grammar, tips, vocabulary
+  
+  ## BERKONTRIBUSI
+  **Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
