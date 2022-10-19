@@ -21,6 +21,8 @@ Link website: https://amuritna.github.io/belajar-ngoding-bhs-indo/
 8. [Bonus: Belajar bahasa Inggris](#bonus-belajar-bahasa-inggris)
 9. [BERKONTRIBUSI](#berkontribusi)
 
+-------------
+
 ## Blog, berita, dan akun media sosial informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
 - [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
@@ -196,6 +198,8 @@ Link website: https://amuritna.github.io/belajar-ngoding-bhs-indo/
     - everyday usages
 - [Oxford University Press Learning Resources Bank](https://elt.oup.com/learning_resources/)
   - IELTs practice materials, grammar, tips, vocabulary
+
+---------------------
   
   ## BERKONTRIBUSI
   **Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
