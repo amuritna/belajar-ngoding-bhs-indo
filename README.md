@@ -1,17 +1,17 @@
 # Belajar Ngoding, Bahasa Indonesia
 ## Tentang Repository Ini
 
-*Repository* ini berisi daftar sumber materi *gratis* dalam bahasa Indonesia untuk belajar pemrograman serta [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management). Untuk mencari materi dengan kata kunci tertentu (contoh: "JavaScript") bisa digunakan Ctrl+F.
+*Repository* ini berisi daftar sumber materi *gratis* dalam bahasa Indonesia untuk belajar pemrograman, pengembangan *software* dan *website*, [manajemen *software*](https://en.wikipedia.org/wiki/Software_project_management), dan hal-hal lainnya yang berkaitan. Untuk mencari materi dengan kata kunci tertentu (contoh: "JavaScript"), coba gunakan fitur *search* atau Ctrl+F.
 
-Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), oleh sebab itu ditambahkan sumber materi gratis belajar bahasa Inggris di bagian paling bawah README ini.
+Kemampuan berbahasa Inggris bakal tetap sangat berguna (contohnya, agar dapat memanfaatkan [sindresorhus/awesome](https://github.com/sindresorhus/awesome)), oleh sebab itu ditambahkan sumber materi gratis belajar bahasa Inggris di bagian paling bawah README ini.
 
-Link website: https://amuritna.github.io/belajar-ngoding-bhs-indo/
+Link ke *website*: `https://amuritna.github.io/belajar-ngoding-bhs-indo/`
 
 -------------
 
 ## Daftar Isi
 
-1. [Blog, berita, dan akun media sosial interaktif](#blog-berita-dan-akun-media-sosial-informatif)
+1. [Blog, berita, dan akun media sosial general informatif](#blog-berita-dan-akun-media-sosial-general-informatif)
 2. [Panduan interaktif](#pembelajaran-interaktif)
 3. [Panduan teks](#pembelajaran-berbasis-teks)
 4. [Panduan video](#pembelajaran-berbasis-video)
@@ -23,7 +23,7 @@ Link website: https://amuritna.github.io/belajar-ngoding-bhs-indo/
 
 -------------
 
-## Blog, berita, dan akun media sosial informatif
+## Blog, berita, dan akun media sosial general informatif
 [//]: # (CATATAN: Kalau punya channel YouTube juga, taruh di bagian Panduan video)
 - [CodePolitan](https://www.codepolitan.com/) ([Twitter](https://twitter.com/codepolitan)) ([Instagram](https://www.instagram.com/codepolitan/))
 - Deep Tech Foundation ([Twitter](https://twitter.com/deeptech_id)) ([Instagram](https://www.instagram.com/deeptech.id/)) ([Spotify](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY))
