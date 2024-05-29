@@ -201,5 +201,6 @@ Link ke *website*: `https://amuritna.github.io/belajar-ngoding-bhs-indo/`
 
 ---------------------
   
-  ## BERKONTRIBUSI
-  **Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
+## BERKONTRIBUSI
+  
+**Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-request-buat-hacktoberfest-417f21d4a74) bakal sangat dihargai. Urutkan secara alfabetis!**
